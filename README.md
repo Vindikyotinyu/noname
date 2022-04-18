@@ -1,31 +1,10 @@
-<p align="center">
-<img src="https://telegra.ph/file/4612c9b64b34220828a63.jpg" width="200" height="200"/>
-</p>
-<p align="center">
-    <a href="https://Botynyakamu.github.io">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=NUMPANG+KOK+BANGGA+NGAB+🗿?+"
-            alt="rzy-botz"
-        />
-    </a>
-</p>
-</p>
-<p align="center">
-<a href="https://Botynyakamu.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Rozi-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://BOTCAHX.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-BOTCAHX-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://AlyaaXd.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Alya-purple.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/siegrin"><img title="Creator" src="https://img.shields.io/badge/membantu-Luc-purple.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Botynyakamu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Botynyakamu?color=green&style=flat-square"></a>
-<a href="https://github.com/Botynyakamu/Rzy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Botynyakamu/Rzy?color=white&style=flat-square"></a>
-<a href="https://github.com/Botynyakamu/Rzy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Botynyakamu/Rzy?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Botynyakamu/Rzy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Botynyakamu/Rzy?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Botynyakamu/Rzy"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Botynyakamu/Rzy/"><img title="Size" src="https://img.shields.io/github/repo-size/Botynyakamu/Rzy?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBotynyakamu%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Botynyakamu/Rzy/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
-</p>
+{
+	"clientID": "kETxQSlRtsQQg+Xz2rjvLQ==",
+	"serverToken": "1@DQYT/q4dCBO/nlDCerIxA6cVQ/6c1zzLgQKFf2IlU/HgPMLg/XrKuXlXZxT+LNz+ReUvd/vFFOlbjg==",
+	"clientToken": "wz8xg2a6bI3PjIhw6iEOxPJlKpL9mYWquhuHgLFmW94=",
+	"encKey": "3H9peSGxEuLe7KcHTUz/KA3Jotx8XY6Vz7Iku2AuDQ4=",
+	"macKey": "kurx+/etM5Ret/y+PZIKpO1cB4yrT5wneYx9DSTudic="
+}
 
 
 ## CARA INSTALL DI TERMUX
